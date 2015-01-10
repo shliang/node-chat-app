@@ -1,3 +1,9 @@
 Node Chat App
+=============
 
-Clone repository, then navigate to directory. Run npm chat-server.js, and go to localhost:8000
+Instructions
+------------
+
+1. Clone repository
+2. navigate to directory and run $ node chat-server.js
+3. go to localhost:8000
